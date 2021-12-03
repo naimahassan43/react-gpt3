@@ -8,6 +8,7 @@ import {
   Possibility,
 } from "./containers";
 import { Brand, CTA, NavBar } from "./components";
+import "./App.css";
 
 const App = () => {
   return (
