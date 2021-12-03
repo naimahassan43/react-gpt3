@@ -4,7 +4,7 @@ import {
   Blog,
   Features,
   GPT3,
-  Header,
+  Banner,
   Possibility,
 } from "./containers";
 import { Brand, CTA, NavBar } from "./components";
@@ -15,7 +15,7 @@ const App = () => {
     <div className="App">
       <div className="gradient__bg">
         <NavBar />
-        <Header />
+        <Banner />
       </div>
       <Brand />
       <GPT3 />
