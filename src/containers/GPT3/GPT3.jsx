@@ -4,7 +4,7 @@ import Feature from "../../components/Feature/Feature";
 
 const GPT3 = () => {
   return (
-    <div className="gpt--gpt3 section__margin" id="wgpt3">
+    <div className="gpt--gpt3 section__margin" id="gpt">
       <div className="gpt--gpt3-feature">
         <Feature
           title="What is GPT-3"
